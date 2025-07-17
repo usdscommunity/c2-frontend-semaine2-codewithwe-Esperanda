@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+h1,h2,h3{
+    font-weight:600;
+}
+.test-bg{
+    background-image: url('/images/bg-header-desktop.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 300px;
+
+}
